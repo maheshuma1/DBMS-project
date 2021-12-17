@@ -1,0 +1,30 @@
+Actor Table:
+100,heli,margarate,39,F,
+101,Kate,Winslet,30,F,
+102,molly,james,25,F,
+125,Mahesh,Babu,45,M,
+126,Leonardo,DeCaprio,56,M,
+127,Tony,Stark,50,M,
+
+Film Table:
+1,titanic,2000,
+2,return of the apes,2005,
+3,beast,2002,
+4,The Jungle Book,2010,
+
+Film_cast Table:
+120,126,1,
+122,102,3,
+123,100,2,
+124,125,4,
+
+Films_nominated Table:
+12,2004,1,
+13,2006,3,
+14,2001,2,
+
+Oscar_held Table:
+2001,30,5000,sydney,
+2004,30,4500,Hollywood,
+2006,30,6000,paris,
+
